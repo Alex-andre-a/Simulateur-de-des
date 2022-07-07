@@ -21,18 +21,11 @@
     </header>
     <main>
 
-        <form>
-        <input type="button" value="A vous de jouer !" >
-
-
-
         <p>
             <img src="/assets/6-faces/<?php echo rand(1, 6); ?>.png" alt="">
         </p>
-        
-        </form>
 
-        
+        <a href="index.php">A vous de jouer !</a>
 
     </main>
 
