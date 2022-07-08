@@ -4,26 +4,25 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>simulateur 6 faces</title>
+    <title>simulateur 10 faces</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <?php include "header.php"; ?>
-    <main>
 
+    <?php include "header.php"; ?>
+
+    <main>
         <p>
-            <img src="assets/6-faces/<?php echo rand(1, 6); ?>.png" alt="">
+            <img src="assets/10-faces/<?php echo rand(1, 10); ?>.png" alt="">
         </p>
         
-        <a href="index.php">A vous de jouer !</a>
-
-
-
+        <a href="10-faces.php">A vous de jouer !</a>
     </main>
 
     <?php include "footer.php"; ?>
+
 </body>
 </html>
