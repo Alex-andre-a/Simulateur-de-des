@@ -13,13 +13,15 @@
 <body>
 
     <?php include "header.php"; ?>
-    
+
     <main>
+
+        <a href="index.php">A vous de jouer !</a>
+
         <p>
             <img src="assets/8-faces/<?php echo rand(1, 8); ?>.png" alt="">
         </p>
 
-        <a href="8-faces.php">A vous de jouer !</a>
     </main>
 
     <?php include "footer.php"; ?>

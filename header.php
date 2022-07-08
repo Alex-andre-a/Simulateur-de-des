@@ -7,7 +7,32 @@
     <title>simulateur de dés</title>
 </head>
 <body>
-<header>
+    <ul class="background">
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
+    <header>
         <div class="titre">
             <h1>Le Sloubi</h1>
         </div>

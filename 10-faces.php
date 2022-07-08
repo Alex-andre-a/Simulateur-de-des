@@ -15,11 +15,14 @@
     <?php include "header.php"; ?>
 
     <main>
+        
+        <a href="10-faces.php">A vous de jouer !</a>
+        
         <p>
             <img src="assets/10-faces/<?php echo rand(1, 10); ?>.png" alt="">
         </p>
         
-        <a href="10-faces.php">A vous de jouer !</a>
+        
     </main>
 
     <?php include "footer.php"; ?>
